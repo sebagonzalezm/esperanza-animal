@@ -2,7 +2,9 @@ import {BrowserRouter, Routes,Route} from 'react-router-dom'
 import * as React from 'react';
 import Button from '@mui/material/Button';
 import {Home} from './home'
-import { MenuCatalogo,Carrito,Conocenos } from './usuario';
+import MenuCatalogo from './MenuCatalogo';
+import Carrito from './Carrito';
+import Conocenos from './Conocenos';
 import {Registrar} from './registrar'
 import { LoginAdmin, ManejoStock, AgregarProducto, MostrarLista, Resultados} from './admin/administrador'
 

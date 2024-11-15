@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Champion Dog Adulto",
+      "description": "Alimento para Perro Adulto Carne y Pollo 15 kg",
+      "price": 12000,
+      "image": "/perros/champions.avif",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "Otro Producto",
+      "description": "Descripción del producto en el carrito",
+      "price": 15000,
+      "image": "/perros/Pedigree.webp",
+      "quantity": 2
+    }
+  ]
+  

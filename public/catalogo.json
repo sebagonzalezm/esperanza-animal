@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Champion Dog Adulto",
+    "description": "Alimento para Perro Adulto Carne y Pollo 15 kg",
+    "price": 12000,
+    "image": "/perros/champions.avif"
+  },
+  {
+    "id": 2,
+    "title": "Otro Producto",
+    "description": "Descripción del producto",
+    "price": 15000,
+    "image": "/perros/Pedigree.webp"
+  },
+  {
+    "id": 3,
+    "title": "Producto Ejemplo",
+    "description": "Este es un ejemplo de producto",
+    "price": 18000,
+    "image": "/perros/sabro.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Producto Ejemplo",
+    "description": "Este es un ejemplo de producto",
+    "price": 18000,
+    "image": "/perros/sabro.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Producto Ejemplo",
+    "description": "Este es un ejemplo de producto",
+    "price": 18000,
+    "image": "/perros/sabro.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Producto Ejemplo",
+    "description": "Este es un ejemplo de producto",
+    "price": 18000,
+    "image": "/perros/sabro.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Producto Ejemplo",
+    "description": "Este es un ejemplo de producto",
+    "price": 18000,
+    "image": "/perros/sabro.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Producto Ejemplo",
+    "description": "Este es un ejemplo de producto",
+    "price": 18000,
+    "image": "/perros/sabro.jpg"
+  }
+]
